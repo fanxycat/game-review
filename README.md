@@ -16,7 +16,7 @@ poorly designed unplayable junks will certainly not be included.
 
 Although articles in the repo are written in markdown, I will also output pdf
 version and maintain them locally, with some excel spreadsheets. This may become
-a lifetime work as game as the interactive media will keep evolving, and I hope
+a lifetime work as game as an interactive media will keep evolving, and I hope
 this will benefit future study and design of game for myself (and for others if
 I luckily do it well) and I will update as frequent as I can. Of course these
 articles definitely will be flawed, so if anyone happens to see this and is
