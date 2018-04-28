@@ -11,12 +11,12 @@ learn from those games and form my own understanding about game, especially
 regarding its interaction, artistry and thought.
 
 For details of which games are included, see the index file in each platform's
-folder (check links below), since some games like duplicated versions or obvious
+folder (check links below), since some games like duplicate versions or obvious
 poorly designed unplayable junks will certainly not be included.
 
 Although articles in the repo are written in markdown, I will also output pdf
 version and maintain them locally, with some excel spreadsheets. This may become
-a lifetime work as game as an interactive media will keep evolving, and I hope
+a lifetime work as game as the interactive media will keep evolving, and I hope
 this will benefit future study and design of game for myself (and for others if
 I luckily do it well) and I will update as frequent as I can. Of course these
 articles definitely will be flawed, so if anyone happens to see this and is
@@ -38,7 +38,7 @@ really appreciate any kind of help.
     - [Sharp Series](retro-computer/sharp/index.md)
     - [Apple Series](retro-computer/apple/index.md)
 - Retro Home Console
-    - [obsolete 2nd Generation Consoles](retro-home-console/2nd-gen/index.md)
+    - [Obsolete 2nd Generation Consoles](retro-home-console/2nd-gen/index.md)
     - [Atari 2600, 5200, 7800 & Jaguar](retro-home-console/atari/index.md)
     - [Nintendo Family Computer (NES)](retro-home-console/fc/index.md)
     - [Super Nintendo Family Computer (SNES)](retro-home-console/sfc/index.md)
